@@ -932,23 +932,23 @@ web sites through the HTML Notifications API. -->
 
 <!-- <CENO> -->
 <!-- Home page browsing mode reminder. -->
-<!ENTITY ceno_home_mode_description "Використовуйте звичайні вкладки аби ділитися контентом з іншими користувачами CENO. Приватні вкладки — якщо ви не хочете ділитися контентом з іншими або ж для сторінок, де необхідно авторизуватися. Натисніть, щоб дізнатися більше.">
+<!ENTITY ceno_home_mode_description "Використовуйте звичайні вкладки, щоб ділитися вмістом з іншими користувачами CENO. Приватні вкладки — якщо не хочете ділитися вмістом з іншими або для сторінок, де необхідно авторизуватися. Натисніть, щоб дізнатися більше.">
 <!-- TRANSLATORS: Keep the URL as is unless the section has been translated. -->
 <!ENTITY ceno_mode_manual_link "https://censorship.no/user-manual/uk/concepts/public-private.html">
 
 <!-- Extra paragraph in private tab panel. -->
-<!ENTITY ceno_private_tab_panel_description "CENO не ділиться вмістом із приватних вкладок з іншими користувачами. Ви можете безпечно відвідувати сайти, де необхідно авторизуватися. Але при цьому вам знадобиться доступ до інтернету.">
+<!ENTITY ceno_private_tab_panel_description "CENO не ділиться вмістом приватних вкладок з іншими користувачами. Ви можете безпечно відвідувати сайти, де необхідно авторизуватися. Але при цьому Вам знадобиться доступ до Інтернету.">
 
 <!-- "No Wi-Fi" dialog -->
-<!ENTITY ceno_wifi_disconnected_dialog_title "Сповіщення браузера CENO">
-<!ENTITY ceno_wifi_disconnected_dialog_description "Рекомендується використовувати CENO через підключення до Wi-Fi, адже обсяг трафіку може бути більшим, аніж ви очікуєте. Ви можете призупинити CENO під час використання мобільного інтернету.">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_now "Призупинити CENO">
+<!ENTITY ceno_wifi_disconnected_dialog_title "Сповіщення оглядача CENO">
+<!ENTITY ceno_wifi_disconnected_dialog_description "Рекомендується використовувати CENO через підключення до Wi-Fi, адже обсяг трафіку може бути більшим, ніж ви очікуєте. Ви можете призупинити CENO під час використання мобільного інтернету.">
+<!ENTITY ceno_wifi_disconnected_dialog_stop_now "Зупинити CENO зараз">
 <!ENTITY ceno_wifi_disconnected_dialog_continue "Продовжити">
 <!ENTITY ceno_wifi_disconnected_dialog_stop_showing "Не показувати знову">
 
 <!-- Service notification and actions -->
-<!ENTITY ceno_notification_title "Робота браузера CENO">
-<!ENTITY ceno_notification_description "Натисніть, щоб призупинити">
+<!ENTITY ceno_notification_title "Робота оглядача CENO">
+<!ENTITY ceno_notification_description "Натисніть, щоб зупинити">
 <!ENTITY ceno_notification_home_description "Головна">
 <!ENTITY ceno_notification_purge_description "Стерти&#9888;">
 <!ENTITY ceno_notification_purge_do_description "Так">
